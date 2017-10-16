@@ -1,3 +1,1 @@
-# Hello-World
-1st repo
-I'm Fotis 29 a new coder from Greece
+Guys ψαχνω πως βαζω sections και πως οριζω css attributes σε αυτα
